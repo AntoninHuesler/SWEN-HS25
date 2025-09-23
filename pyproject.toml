@@ -7,4 +7,5 @@ requires-python = ">=3.12"
 dependencies = [
     "iplantuml>=0.1.1",
     "ipykernel>=6.29.5",
+    "rich>=14.1.0",
 ]
