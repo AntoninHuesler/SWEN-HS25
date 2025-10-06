@@ -1,4 +1,4 @@
-from testing.greeting import *
+from Uebung04_testing.greeting import *
 
 def test_return_name():
     assert greet("Bob") == "Hello, Bob"

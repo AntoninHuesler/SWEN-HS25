@@ -1,4 +1,4 @@
-from testing.password import *
+from Uebung04_testing.password import *
 
 
 def test_password_lenght():
